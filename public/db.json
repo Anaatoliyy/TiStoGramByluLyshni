@@ -1,0 +1,125 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "username": "john_doe",
+          "email": "john.doe@example.com",
+          "password": "password123",
+          "profile_picture": "https://example.com/images/john_doe.jpg",
+          "bio": "Tech enthusiast, coffee lover.",
+          "followers": 1500,
+          "following": 200,
+          "posts": 35,
+          "verified": true
+        },
+        {
+          "id": 2,
+          "username": "jane_smith",
+          "email": "jane.smith@example.com",
+          "password": "mypassword456",
+          "profile_picture": "https://example.com/images/jane_smith.jpg",
+          "bio": "Traveler and food critic.",
+          "followers": 2200,
+          "following": 180,
+          "posts": 50,
+          "verified": false
+        },
+        {
+          "id": 3,
+          "username": "alice_walker",
+          "email": "alice.walker@example.com",
+          "password": "alice1234",
+          "profile_picture": "https://example.com/images/alice_walker.jpg",
+          "bio": "Photographer and nature lover.",
+          "followers": 800,
+          "following": 90,
+          "posts": 120,
+          "verified": false
+        },
+        {
+          "id": 4,
+          "username": "bob_martin",
+          "email": "bob.martin@example.com",
+          "password": "bobsecure789",
+          "profile_picture": "https://example.com/images/bob_martin.jpg",
+          "bio": "Music producer, creating beats.",
+          "followers": 3000,
+          "following": 500,
+          "posts": 180,
+          "verified": true
+        },
+        {
+          "id": 5,
+          "username": "charlie_brown",
+          "email": "charlie.brown@example.com",
+          "password": "charlie@brown1",
+          "profile_picture": "https://example.com/images/charlie_brown.jpg",
+          "bio": "Gaming enthusiast and streamer.",
+          "followers": 5000,
+          "following": 120,
+          "posts": 200,
+          "verified": false
+        },
+        {
+          "id": 6,
+          "username": "diana_prince",
+          "email": "diana.prince@example.com",
+          "password": "wonderwoman123",
+          "profile_picture": "https://example.com/images/diana_prince.jpg",
+          "bio": "Superhero by day, philanthropist by night.",
+          "followers": 8500,
+          "following": 400,
+          "posts": 75,
+          "verified": true
+        },
+        {
+          "id": 7,
+          "username": "emma_king",
+          "email": "emma.king@example.com",
+          "password": "emma!king2025",
+          "profile_picture": "https://example.com/images/emma_king.jpg",
+          "bio": "Writer, poet, and motivational speaker.",
+          "followers": 1000,
+          "following": 300,
+          "posts": 42,
+          "verified": false
+        },
+        {
+          "id": 8,
+          "username": "george_lee",
+          "email": "george.lee@example.com",
+          "password": "georgepass2024",
+          "profile_picture": "https://example.com/images/george_lee.jpg",
+          "bio": "Tech entrepreneur, always innovating.",
+          "followers": 3500,
+          "following": 500,
+          "posts": 90,
+          "verified": true
+        },
+        {
+          "id": 9,
+          "username": "hannah_james",
+          "email": "hannah.james@example.com",
+          "password": "hannahJ@987",
+          "profile_picture": "https://example.com/images/hannah_james.jpg",
+          "bio": "Fitness coach, health advocate.",
+          "followers": 2300,
+          "following": 150,
+          "posts": 67,
+          "verified": false
+        },
+        {
+          "id": 10,
+          "username": "ian_taylor",
+          "email": "ian.taylor@example.com",
+          "password": "iantaylor@123",
+          "profile_picture": "https://example.com/images/ian_taylor.jpg",
+          "bio": "Entrepreneur, world traveler.",
+          "followers": 1200,
+          "following": 80,
+          "posts": 40,
+          "verified": true
+        }
+      ]      
+  }
+  

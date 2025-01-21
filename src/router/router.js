@@ -4,6 +4,7 @@ import BaseLayout from "../layout/BaseLayout";
 import Login from "../pages/Login";
 import EntryRouter from "../components/EntryRouter";
 import Signin from "../pages/Signin";
+import Home from "../pages/Home";
 
 export const ROUTES = {
   HOME: '/',
@@ -42,16 +43,17 @@ const routes = createBrowserRouter([
           } // register
         ]
       },
-      // {
-      //   index: true,
-      //   element: <BaseLayout />,
-      //   children: [
-      //     {
-      //       index: true,
-      //       // element
-      //     }
-      //   ]
-      // },
+      {
+        index: true,
+        element: <BaseLayout />,
+        children: [
+          {
+            index: true,
+            element: <Home/>,
+            children: []
+          }
+        ]
+      },
     ],
   },
 ]);

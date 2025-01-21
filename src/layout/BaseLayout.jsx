@@ -4,10 +4,10 @@ import {Outlet} from 'react-router-dom';
 const BaseLayout = () => {
   return (
     <main>
-        <header></header>
+        <header>Home</header>
         <Outlet/>
         <nav>
-
+asdasd
         </nav>
     </main>
   )
